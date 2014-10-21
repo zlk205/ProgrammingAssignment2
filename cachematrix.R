@@ -1,6 +1,6 @@
 ## The following functions are used to cache the inverse of a matrix so that it is available
 ## to be recalled at a later time.  
-## The first function allows the user the set the value of a matrix and then searches for
+## The first function allows the user to set the value of a matrix and then searches for
 ## the value of the corresponding matrix inverse from the cached data.  
 ## The second function computes, caches and returns the inverse of the matrix, after first 
 ## checking the cached data to see if that particular inverse has been previously stored.
